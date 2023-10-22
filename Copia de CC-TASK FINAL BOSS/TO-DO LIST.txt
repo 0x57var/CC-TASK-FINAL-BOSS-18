@@ -1,0 +1,2 @@
+Corregir textos e implementar con mas info.
+cambiar numeros y nombres en la pagina web
